@@ -1,0 +1,153 @@
+---
+title: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## PhD exam notes
+
+#### Ideas
+Relative frequency of study versus importance
+
+Explain how you selected some studies to discuss and report (rule 2 in ten simple rules one below)
+
+Tables should be super clear with strong legends
+
+Figure legends should be very stand-alone and have a ‘what they mean’ bit in them too - ie this more like a thesis and less like a paper so can provide a bit more guidance to committee
+
+What we know, what do not, ensure you state why each major hypothesis or idea matters
+
+Ten Simple Rules for Writing a Literature Review super useful for COGNATES
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003149
+Super helpful
+
+
+#### Organization
+Rule 6 - be critical and consistent
+Make each section or big idea end with either implication, how it connects to something else like conservation or diversity or change, or end with next steps - the future of indirect interactions is best described by studies that include impacts of indirect interactions on diversity or function (citations). Or perhaps the next steps of indirect interactions in plant-animal research will include…. Relative importance of rare and threatened species (citations) and how their loss can lead to cascades?? Etc. IF you can end with novel ideas that are recent, shows you know the basics for each topic but where it is likely going too.
+
+Rule 7 - find a logical structure 
+Does not have to the same for every cognate! (But should be consistent internally, ie Marios first one does this
+Frequency of study for hypothesis
+Definition
+Research examples
+Then I propose it needs to end with implications, gaps, next steps
+
+Rule 10 - Mario - you DID super well - I think it is CRITICAL in cognates to ensure you know the roots of the field of research
+
+
+#### Conclusions/implications at end
+Wrap-it-all up at the end of a cognate and put a bow on it - not a paper this is a ‘test’ so make it easy for them to score you favorably.
+
+
+What is the bigger picture for the cognate -  ie plant-animal interactions are studied in different ways depending on the specific interaction subset or hypothesis but??? What is the big picture?
+
+#### How to ace it resources
+
+Blog: https://www.enago.com/academy/6-effective-tips-on-how-ace-your-phd-qualifying-exam/
+
+This one even better
+https://www.lpl.arizona.edu/grad/guidebook/academic-requirements/how-pass-your-phd-qualifying-exam
+
+How to Pass Your Ph.D. Qualifying Exam
+
+Successfully passing your comprehensive exams will involve a fair bit of organization beforehand on your part. As always, the best way to get a grip on these exams is to talk to people. Talk to your advisor and committee members about what their expectations and/or reservations are. Talk to the grad students to hear what the exams are actually like. We're all more than willing to help you out (even if we do like telling scary orals stories!).
+
+As of the 2013-14 academic year, the requirements for the Planetary Science Ph. D. include a written comprehensive exam, to be completed before attempting the oral comprehensive exam. See How to Pass The Writtens page for more information about the Writtens!
+
+Oral Qualifying Exam
+
+Fondly known as orals, this exam is as scary as the stories you'll hear about them, but no worse. The oral portion of the qualifying exam is intended to test your ability to conduct the research necessary to complete a Ph. D. Thus it is the point where you present your proposed dissertation research plan to your committee. It is expected to last at least two but not more than three hours.
+
+
+Three months prior: Choose your Committee
+
+Five or more faculty members administer the test. The Department "standing member" is common to all orals committees to ensure continuity within the Department--you must have this person at your exam. Most students choose to put this person on their committee since the standing member will be there anyway, but you do not have to do this. You personally choose your 5-person committee with the help of your advisor and the Graduate Admissions and Advising Committee.
+
+Do not underestimate the difficulty of assembling five committee members into one room at the same time for the exam! Start emailing potential committee members well in advance of your desired date, and offer them multiple options (10 or so) of possible dates for scheduling. Don't forget holidays and department scheduled colloquia and such, it is best to avoid those when choosing a date.
+
+The presence of your advisor on your committee is currently a topic of discussion, with the changes to the Ph. D. procedures underway in 2013-14. Readers are directed to the following link to find the current rules for orals committee selection:
+
+Ph. D. Rules for Committees (PDF)
+
+One or two months prior: Individual Meetings
+
+It is a very good idea to meet with your committee members individually to discuss your proposed research and their expectations for your oral exam. Often these meetings will be very helpful in directing your studying for the exam. Again, due to scheduling difficulties, it is wise to start setting up these meetings as early as possible.
+
+One month prior: UAccess Grad Path Forms
+
+Fill out all of the necessary forms on UAccess Grad Path. This will be your Doctoral Plan of Study (if you haven't completed it already), your Comp Exam Committee Appointment Form, and when those are finished, your Announcement of Doctoral Comprehensive Exam. Each form will become available when all the prior forms are filled out.
+
+One month prior: Set up "Practice Orals"
+
+It is also a good idea to have a "practice orals" session with a practice "committee" made up of grad students who have taken orals with the members of your real committee. Treat this like the real thing, reserve the projector and room, ask your "committee" to ask you difficult questions like those you expect in the actual exam. Once again, start scheduling this practice session well in advance of the exam, due to grad students' busy schedules. Shoot for a date that is one or two weeks before your actual exam.
+
+Three weeks prior: Proposals Due
+
+Distribute your primary and secondary proposals, as well as a copy of your Doctoral Plan of Study, to your committee members three weeks in advance of the date.
+
+Suitable propositions for research may be of various forms such as:
+
+a non-trivial original scientific assertion that can be defended as plausible on the basis of existing data
+an outline of a research project by which a significant contribution to knowledge would result
+a truly compelling criticism of a conclusion drawn by a reputable scientist in the open literature
+an originally conceived principle by means of which a large number of scientific facts may be understood
+Some example proposals from past grad students can be found on the Oral Exam Proposal Examples page.
+
+One week prior: Create Presentations
+
+You will present your primary project in the first 15 minutes of the exam. This presentation needs to show the committee that your research topic is of value to the scientific community, and your goals are achievable in a reasonable period of time. Don't forget to prepare and practice this presentation! You should also prepare a secondary project presentation (10 minutes), but do not expect to give this presentation unless the committee specifically requests to see it.
+
+During the Exam: What Happens?
+
+The exam must be no less than two hours, and no more than three hours. Each committee is different, but there are a few basic guidelines for how oral exams should typically go.
+
+The committee will need to discuss their procedures (who asks the first question, how many questions each) sometime near the beginning of the exam, either before the exam starts, or after the 15-minute presentation. They will ask you to leave the room for this.
+
+Each committee member will typically ask one or two questions, and often ask followup questions to lead you through a problem. They will want to see you write things on the board: equations, plots, diagrams, anything that shows your thought process.
+
+The purpose of the exam is not only to quiz you but also to evaluate the thought process that leads to the answers you give. It is often valuable to talk through a question as you work it out--the oral equivalent to "show all work." You'll also be expected to be able to answer questions and refute criticism of either the logic or the importance of both of your proposals and to relate your ideas to other areas in planetary science.
+
+Midway through the exam, you will be given a short break. At the end of the exam, they will again ask you to leave, and they will discuss your performance and vote on the outcome of the exam.
+
+The outcome
+
+You have two chances to take the exam subject to the approval of your committee, the Department, and the Graduate Council. If you pass the first time, congratulations! However, if the committee feels that your general knowledge is deficient or that your research topic is either inappropriate or inadequate, they may do one of two things: pass you conditionally and ask you to reappear before the committee, or not pass you at all. If you fail the first time, you're not the only one!! Don't get permanently discouraged. Your advisor will go over the committee's recommendations with you. You may retake the exam after six weeks, but you may have up to a year to redo them if you like.
+
+Some Tips/Wisdom
+
+(from Pete Lanagan)
+
+When you go into orals, you will be one person being tested by at least five people who are experts in their fields. You are not expected to match their knowledge for the simple reason that you can't. I don't care how much you prepare or how many facts you can cram. You will not pass on book knowledge alone.
+
+A good orals committee will test your ability to work through unfamiliar problems. Some questions will be deceptively easy. Some questions will be hard. If you already know what they are asking, good committee members will continue asking you more questions (perhaps on the sametopic, perhaps on a different topic) until they find something with which you're unfamiliar. At that point, you will have to show off your ability to address the unfamiliar problem.
+
+By all means, be familiar with material taught in the core classes. Redo homework problems. Certainly know the in's and out's of your primary project and backup project.
+
+But, most importantly, practice how to solve unfamiliar problems orally. Know what is being asked and rephrase the question aloud. State what is known aloud. State the assumptions aloud. State what you need to know aloud. Practice drawing diagrams related to the problem in real-time. Practice doing math under pressure. Practice speaking about your problem-solving approach aloud.
+
+A few tips:
+
+Do practice how to solve problems aloud. In the exam, show the committee your thought process.
+Related to #1, if you have no feakin' idea how to approach the problem, frame the question for the committee aloud. State what's known. State your working assumptions. State what facts you need to know. (In some cases, the committee might throw you a bone in the form of a suggestion to see how you approach the rest of the problem.)
+Don't give up hope if you feel you aren't doing well. Few people come out of orals without experiencing some degree of mental anguish. Most committees look more favorably on someone who tries and struggles than someone who gives up.
+Take charge of your exam any way you can. For example, if you need the committee to shut up for a minute so you can think, tell them to shut up (preferably in a polite way). Just remember to start talking about the problem again once you've thought about the issues for a minute. (During a break in my orals, I was actually told by a committee member that telling my committee to be quiet for a minute so I could think was a good move.)
+Don't BS the committee. Just don't.
+More lessons learned from post-orals grads: (feel free to add to this!)
+
+Start trying to set a date early. Faculty schedules are hard to work around, and you have to coordinate 5 of them. If they're extremely busy, double-check with their admin assistants that they really will be in town. When you finally find a date that works for all of them, confirm it with them, and remind them a few times. It has actually happened that someone's advisor forgot about their exam, and had to be called at home to come in. You don't need that extra stress!
+You need a LARS account if you don't already have one to schedule the room & a data (not overhead) projector. Make sure you bring the right adapter for your laptop for the projector.
+Ask postdocs and older grads with the same advisor and committee members for tips. You can get good practice questions that way, and some will have tips on your specific committee members (their different approaches, even some examples of what they might ask).
+Some people meet with each committee member about a month before the exam. Some of these meetings can be very useful, some are not, but it's not going to hurt.
+When you're putting together your study schedule, don't forget to leave time to write the proposals, and to and make (and practice!) the presentations.
+Most people will say that they won't ask about your second proposal unless you're really flailing. However, that's not always true - I was asked about my second proposal, and I think it was mainly because my advisor happened to be interested in it. So don't blow it off completely.
+Don't neglect any aspect of the core curriculum just because it's not relevant to your project. If you can't think of how it's related to your project, you probably haven't thought hard enough about it. Anyway, they can ask you anything from the core curriculum, and it doesn't have to be related even tangentially to your research. If they hear a hint of uncertainty when you mention a subject, they'll delve deeper into that topic.
+Don't burn out! Take breaks and de-stress however you de-stress. Stay healthy and get enough sleep.
+Definitely, definitely practice answering questions out loud. It's helpful to do it just by yourself out loud in an empty room with a whiteboard, but also do some with a friend or relative. A more formal practice exam in front of an audience is very valuable, especially if you have limited experience with oral examinations (which most of us do). Don't expect it to go well....
+Don't expect the exam itself to go well, either. The committee's job is to find the extent of your knowledge. That means they WILL eventually ask you a question to which you don't know the answer. Don't panic, don't clam up, and don't try to bullshit them. Start talking about relevant things you DO know, even if it starts out really basic. Sometimes what they're looking for is actually very basic. If you're not giving them the answer they want, they will probably try to lead you in the right direction. If it's clear you're foundering, they'll probably try to help you or suggest different approach. That being said, your committee WANTS you to pass. They're not your enemies. They know you're nervous, and that's OK. They've probably seen people do worse than you!
+Best advice from my advisor: "Try not to take it too seriously." Make sure you're prepared, but if you've made it this far, you're probably going to do fine, so try to relax. smiley
+Another thing the committee is looking for (for the research oral exam, post-2014) is 1) whether you are familiar with the background material, 2) what is new or unique about your proposed work compared to previous work, and 3) are you presenting a reasonable, straightforward project?
