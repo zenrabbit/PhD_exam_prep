@@ -6,6 +6,9 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<br>  
+
+![](./phd.png)  
 
 ## PhD exam notes
 
@@ -24,6 +27,9 @@ Ten Simple Rules for Writing a Literature Review super useful for COGNATES
 
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003149
 Super helpful
+
+Cognate challenge is how to navigate all the terms, define them, link ideas, and establish a coherent flow. Basically, the expectations for synthesis and critical review versus summary need to be established.  
+
 
 
 #### Organization
