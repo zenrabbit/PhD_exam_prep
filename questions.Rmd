@@ -1,0 +1,22 @@
+---
+title: ""
+output: pdf_document
+date: '2022-06-10'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE)
+```
+
+## Questions  
+
+Here are sample questions from former exams. In many instances, other examiners would comment they had similar or even identical ones. 
+
+```{r qs, }
+library(tidyverse)
+
+qs <- read_csv("data/qs.csv")
+qs %>% 
+  select(-id) %>% 
+  knitr::kable()
+

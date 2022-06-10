@@ -1,0 +1,220 @@
+PhD,category,questions,theme,id,typology
+a,research,fragment spacing and size = does their home range size and/or territory movement patterns fully overlap or extend beyond small patch sizes?,conservation,bb,theory
+a,research,site fidelity,conservation,bb,methods
+a,research,timing,conservation,bb,methods
+a,research,can you use remote sensing to measure fragments,conservation,bb,methods
+a,research,veg sampling for nest is the same as fragments?,conservation,bb,methods
+a,research,does your detailed veg sampling match the literature?,conservation,bb,theory
+a,research,"what is the sample size you need for individual birds, ie is 9 sufficient?",conservation,bb,theory
+a,research,do you need to use MARK to test mark-recapture theory?,conservation,bb,methods
+a,research,more stats work - habitat occupancy models,conservation,bb,methods
+a,research,deeper or wider for a PhD - a choice that structures design and sampling effort for subsequent work,conservation,bb,methods
+a,research,things you can control and those things you cannot - spring detections  ,conservation,bb,methods
+b,research,Nesting success over the two-year study was significantly lower on agricultural sites (26.5 % success compared to 50.0 % success on non-agricultural sites) with a similar but non-significant pattern for fledgling survival (21.4 % survival on agricultural compared to 35.3 % on non-agricultural sites).,conservation,hvv,data
+b,research,1. why do you think you had a similar but non-significant pattern?,conservation,hvv,data
+b,research,2. is there any evidence from your work how we could modify ag lands to be more nesting friendly?  It would be great to turn habitat loss into habitat modification.,conservation,hvv,methods
+b,research,"3. In your intro, you state the results to date from lit are conflicted.  Any insights from your work how this can be resolved?  ",conservation,hvv,data
+b,research,"4. had no relation to habitat variables such as crop type, availability of natural margins, and surrounding grasslands and woodlands (Bradbury et al., 2003) - what is the driver that matters then?",conservation,hvv,data
+b,research,5. intensive agriculture is low quality habitat due to higher nest predation and lower food supply:,conservation,hvv,data
+b,research,so how do you measure predation risk?  arthropods is the measure of food supply.,conservation,hvv,methods
+b,research,6. do sparrows have arthropod feeding preferences or will they eat anything?,conservation,hvv,methods
+b,research,7. Can you have a p-value of 0? p13,conservation,hvv,data
+b,research,8. How do you reconcile mixed positive/n.s. results? some measures were not significant whilst others were?  ,conservation,hvv,data
+b,research,9. discuss results on p11,conservation,hvv,data
+b,research,75% of guild? passerines? what about other guilds?,conservation,hvv,data
+b,research,predatory densities? how do they assess?,conservation,hvv,data
+b,research,what about less intensive ag?,conservation,hvv,methods
+b,research,an you test ag-intensity using BBS? how spatial is it?,conservation,hvv,methods
+b,research,how much variation as there within non-ag sites? predict higher variation there?,conservation,hvv,data
+b,research,did you sort arthropods into RTUs when you weighed them?  YES! very cool.,conservation,hvv,methods
+b,research,p33 numbers 3.5 to 4.,conservation,hvv,data
+b,research,excluded failed nests,conservation,hvv,data
+b,research,is clutch size a good response measure?,conservation,hvv,data
+b,research,"n.s. results due to power, design, sample sizes?",conservation,hvv,data
+b,research,are there indirect effects on the predators within ag lands? maybe they decline too? what do they eat when there are no nest to chomp?,conservation,hvv,methods
+b,research,did you keep the landscape-level surveys to find farms?,conservation,hvv,methods
+b,research,"what is it about ag land that matters? the vegetation, the disturbance, the prey availability?",conservation,hvv,theory
+b,research,does the type of crop matter? can you test different crops at same sites on different years?,conservation,hvv,methods
+b,research,how large is the spillover effect of farms on adjacent lands?,conservation,hvv,methods
+c,research,Is there a degree of certainty associated with geolocators?,conservation,mmp,data
+c,research,How important is forest type for the geolocators?,conservation,mmp,methods
+c,research,Can you explore the Cons Bio paper a bit more?,conservation,mmp,theory
+c,research,Is Cort always high in response to low food? Are there calibration curves associated with caloric intake?,conservation,mmp,methods
+c,research,Is SMI the same as BMI?  ,conservation,mmp,methods
+c,research,"If you depart late, you arrive late? Why? Is there compression of differences due to migration rates differences?  Is there any way to integrate these different estimates?",conservation,mmp,theory
+c,research,Is SMI the same as lean?  You mean mass or fat?,conservation,mmp,data
+c,research,How do you reconcile some measures supporting predictions and not others?,conservation,mmp,theory
+c,research,Is there an interaction between weather and individual strategy?,conservation,mmp,data
+c,research,"If you take 3 times longer, the importance of environment increases.",conservation,mmp,data
+c,research,The right time implies an optimal arrival time?  Is it a static or shifting/dynamic optimum?,conservation,mmp,theory
+c,research,How extensive does travel/movement/dispersal have to be to warrant term migration?,conservation,mmp,methods
+c,research,What proportion of the year is spent migrating?,conservation,mmp,data
+c,research,What proportion of migration is stopover?,conservation,mmp,data
+c,research,Are wood thrushes representative passerine species?,conservation,mmp,theory
+c,research,Why are prolonged stopovers predicted to reduce condition?,conservation,mmp,theory
+c,research,"Why would physiology relate to behaviour in general, particularly in securing mates etc? Or is it a change in cues?",conservation,mmp,theory
+c,research,Why linear regression and not multiple linear regression or SEMS?,conservation,mmp,data
+c,research,What is the t-test between sexes testing in arrival condition etc. the means or the slopes of regressions?,conservation,mmp,data
+c,research,Figure 1. Predictions look great.  Can you scale to make more general to passerines more broadly?,conservation,mmp,data
+c,research,"Are figures 2-5 regressions?  Or are they mean values for each level?  If means, need SE. If single points, need to clarify.",conservation,mmp,data
+c,research,"Figure 6, you list the r2 etc in the figure legend whilst in Fig 8 you do not but it is a regressions too I think?",conservation,mmp,data
+c,research,Figure 9- very nice. Can you link to the prediction figure somehow?,conservation,mmp,data
+d,research,1. How do you know ENSO test had sufficient power?,conservation,lh,data
+d,research,"2. How do we test for compensation in birds to stress? Functionally, physiologically, and through movement ecology?",conservation,lh,methods
+d,research,3. Why has the research failed to define threats?,conservation,lh,theory
+d,research,4. the experiments described = food manip or bird removal test different mechanisms - are most tests direct or indirect?,conservation,lh,methods
+d,research,"5. what is clinal variation? how does variation in climate along the entire length of a bird range map onto, spatially, the movement of the species or populations of birds?",conservation,lh,theory
+d,research,"6. Have positive carryover effects been shown? which are more common, positive or negative?",conservation,lh,theory
+d,research,"7. prey, condition, and movement/migration/behaviour - which is most sensitive/responsive to climate in birds?",conservation,lh,theory
+d,research,"8. Does carry-over go both ways? How long can it persist inter-annually, is it possible it lags > 1 year",conservation,lh,methods
+d,research,9. How are these species related? ie phylogenetic distances? ,conservation,lh,data
+d,research,"10. the hypotheses are kind of predictions, but I know that semantic vary from lab to lab on how these are written",conservation,lh,theory
+d,research,"11. assumptions in habitat productivity would be very interesting to add - ie climate changes vegetation that changes prey and fruit item availability, that are no lags in the prey-resource system with climate, that the effects of spatial scales even out, that birds compensation in timing can over-ride climate and prey impacts on body condition",conservation,lh,theory
+d,research,12. is it possible that there was migration outside the april-may window? did you check?,conservation,lh,methods
+d,research,13. The outlier exclusions were interesting - did you apply an outlier test too? https://www.rdocumentation.org/packages/car/versions/1.2-7/topics/outlier.test,conservation,lh,data
+d,research,14. what is ‘adequate statistical power? what would you expect for relatively more rare species?,conservation,lh,data
+d,research,15. What is a credible limit?,conservation,lh,data
+d,research,16. why 3 out of 7 species? fascinating.,conservation,lh,data
+d,research,"17. what is an otherwise impossible opportunity? So, NDVI might work for some species but not others depending on the species or on the habitat or both?",conservation,lh,methods
+d,research,"1. what is structural size? does it correlate with mass, BMI or condition?",conservation,lh,data
+d,research,2. what is the best measure of condition?,conservation,lh,methods
+d,research,"3. Is it possible they leave sooner not later because overwintering grounds so bad, ie attrition? or optimal foraging theory leave early?",conservation,lh,theory
+d,research,4. I love connectivity idea - how did Stanley 2015 measure - is it spatial or individual driven?,conservation,lh,data
+d,research,5. Did you check phlyogenetic distances between the 7 species tested?,conservation,lh,data
+d,research,6. Is there a relationship spatially between condition of birds - ie low and high conditions associate in migration and space not just time?,conservation,lh,data
+d,research,7. what are the r2 like on the enso-ndvi curves?,conservation,lh,data
+d,research,"8. enso-ndvi-to birds right… what about enso directly? does that make sense? actually, the pathway is enso-ndvi-to prey to birds..",conservation,lh,data
+d,research,9. were there any weather stations locally?,conservation,lh,methods
+d,research,10. discussion is super - agree ndvi is still the best dataset for this level of Qs,conservation,lh,data
+d,research,11. what about positive carry-over effects in good years? did your data test that too?,conservation,lh,data
+d,research,12. how to pick a model or some work some do not.,conservation,lh,data
+e,research,Is stabilization an ecosystem service?,evolution,ko,theory
+e,research,Are there tipping points wherein too many parasites or too high a load the ecosystem level reduces services?,evolution,ko,theory
+e,research,Is it common for parasites to be bioindicators?,evolution,ko,theory
+e,research,What is a bioindicator?,evolution,ko,methods
+e,research,"In addition to a molecular phylogeny, what are other kinds are there? How does this tool compare to other tools?",evolution,ko,methods
+e,research,"How effective does this tool estimate dispersal patterns, ie southward etc?",evolution,ko,methods
+e,research,What is divergence dating?,evolution,ko,methods
+e,research,Did the beetles and plants disperse/migrate at the same time?,evolution,ko,data
+e,research,Why would host and parasite phylogeography mismatch? Can you provide an example? ,evolution,ko,methods
+e,research,Is this parasitism facultative or obligate?,evolution,ko,theory
+e,research,How can you assume production of pheromone needs to match host? Not clear what this means.,evolution,ko,theory
+e,research,How do phylogeography and biogeography differ?,evolution,ko,theory
+e,research,Why 5 individuals and not more?,evolution,ko,data
+e,research,What is genetic filtering?,evolution,ko,theory
+e,research,Is it possible that differentiation will fail?,evolution,ko,data
+e,research,Do people ever prep keys but cannot reliable discern species?,evolution,ko,methods
+f,research,"1. Why are bears important ecologically? Do Arctic ecosystems with and without bears, ie apex predators, look different? Particularly ones that had bears but do not now? Have we tested this effect?",conservation,tr,theory
+f,research,2. How do habitat human-wildlife interactions change with climate in the arctic and what strategies can we use to mitigate these impacts?,conservation,tr,theory
+f,research,3. How do you decouple habitat drivers of change from prey items when both are changing?,conservation,tr,methods
+f,research,4. How flexible are habitat choices for dens within a population of females?,conservation,tr,theory
+f,research,5. Why  are females ‘thought’ to be most sensitive? Has it been tested? ,conservation,tr,theory
+f,research,6. What are the procedures in Stirling et al 1989 and why use them versus other approaches?,conservation,tr,methods
+f,research,7. Are there other ways to contrast model performance in addition to AIC scores?,conservation,tr,data
+f,research,"8. Why use one-way anova for turning angle and migration distance? What if these factors interact with elevation or other factors? Did you nest the test within individual bears, ie perhaps some bears are more wanderlust than others?",conservation,tr,data
+f,research,"9. If sea ice did not differ between two periods contrasted in RSMs, how can we conclude there is a climate change effect. Are there direct and indirect climate change effects on bears? Any way to partition out these interactions?",conservation,tr,data
+f,research,10. Can you explain BPCA in more detail and provide an estimate of the extent that it can provide certainty in behavourial classifications?,conservation,tr,data
+f,research,"11. Can you include prey in RSMs too? Ie, combine datastreams from different chapters or at least contrast relative importance estimates in some capacity?",conservation,tr,data
+f,research,12. Can you explain what MixSIAR will do?,conservation,tr,data
+f,research,13. Is there a way to identify threshold in the functional response capacity of species to change?,conservation,tr,data
+f,research,14. Is there a mechanism to validate CTCRW model with point analyses or other models? Is a random null model valid? Are there different nulls to contrast to within this tool?,conservation,tr,data
+f,research,Is there a duration component to the movement measurements?,conservation,tr,data
+f,research,What is conditional logistic regression vs logistic regression?,conservation,tr,data
+f,research,How do you differentiate between movement though a landscape or microhabitat vs endpoints?,conservation,tr,methods
+f,research,Is it the mean or the variation or both in changes in ice dynamics relevant to pbs?,conservation,tr,data
+f,research,What is an optimal path?,conservation,tr,data
+g,research,1. can you move from genetics to the field or is it best to move from the field to genetics to infer traits?,genetics,nt,theory
+g,research,2. Why this species of bombus? ,genetics,nt,data
+g,research,3. Are there any species of bees that are immune to neonicotinoids?,genetics,nt,data
+g,research,4. Survival was heritable after exposure but were there other indirect effects or costs to this trait in terms of of short-term reduced fitness costs? Are there any evidences of tradeoffs?,genetics,nt,theory
+g,research,5. What is an innervation for managers? P1 ch1,genetics,nt,methods
+g,research,6.  What is a managed pollinator?,genetics,nt,theory
+g,research,7. Potts 2010 proposes that drivers of loss are studied in isolation - does this mean one driver at a time or sometimes two but never three? Just curious how multi-factorial it can get.,genetics,nt,methods
+g,research,8.  What is the streetlight effect?,genetics,nt,theory
+g,research,9.  How is the NNI mobilized into the bees?,genetics,nt,methods
+g,research,10. What is the mechanistic hypothesis for NNI effects on bees?,genetics,nt,theory
+g,research,11. What is precocious foraging?,genetics,nt,theory
+g,research,12. What is hygienic behavior?,genetics,nt,theory
+g,research,13. What is a social immune system? How is it different from an individual one?,genetics,nt,theory
+g,research,14. Is chronic exposure defined by a threshold of percent mortality? I think some bees survive?,genetics,nt,theory
+g,research,5.  Why did you collect 13 dead bees per colony?,genetics,nt,methods
+g,research,16. How can a bee be observed 49.6 times?,genetics,nt,methods
+g,research,"17. For stats on flights, were flights nested within bees within colonies or just the mean per bees nested within colony? P19. ",genetics,nt,data
+g,research,18. P25 - those are very rectangular plots - what do the slopes of lines look like not so squished?,genetics,nt,data
+g,research,19. It looks like 2 out of 5 colonies suffered but the other three did not in exposed group (p25). What about the data within colonies of the individual bees? Is that the age plot on p31? What does age show on the x-axis?,genetics,nt,data
+g,research,20. What plant species is biggest source? It looks like corn but also soybean? How does proportion landcover relate to NNI concentration per unit area - ie assume soybean planted much more densely?,genetics,nt,data
+g,research,21. P33 density plot - looks like treated bees Fly more often?,genetics,nt,data
+g,research,21. How long does a colony persist?,genetics,nt,
+g,research,22. Is a season long-study representative of longitudinal colony dynamics?,genetics,nt,data
+g,research,23. What are immune genes?,genetics,nt,methods
+g,research,24. What is the default containment degrees of freedom? Did you all test Satterthwaite? Rationale:,genetics,nt,data
+g,research,"So relative to Satterthwaite, containment over-estimates the df for the means themselves - so this inflates capacity to test for differences",genetics,nt,data
+g,research,25. What does df containment have to do with variance components and estimating parameter importance?,genetics,nt,methods
+g,research, See paper here - perhaps need to test alternative model for dis,genetics,nt,data
+g,research,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4458010/ Comparing denominator degrees of freedom approximations for the generalized linear mixed model in analyzing binary outcome in small sample cluster-randomized trials ,genetics,nt,data
+g,research,Containment methods have inflated type I error rates when the cluster number is small (<30) and the inflation becomes more severe with increased variation in cluster sizes.,genetics,nt,data
+a,cognate,Pls put Dispersal ecology in the context of conservation.,conservation,bb,theory
+a,cognate,provide a summary of strengths and limitations of stress responses in animals: concepts and tools. ,conservation,bb,theory
+a,cognate,what are carry-over effects in vertebrates,conservation,bb,theory
+a,cognate,list landscape conservation issues,conservation,bb,theory
+e,cognate,Are these three classifications common knowledge?,evolution,ko,methods
+e,cognate,Where does phylogeography fit?,evolution,ko,theory
+e,cognate,What is a Milankovitch Cycle?,evolution,ko,theory
+e,cognate,What is the difference between long-term and short-term climate?,evolution,ko,methods
+e,cognate,Does higher productivity always correlate with more complex vegetation structure?,evolution,ko,theory
+e,cognate,What are sweepstakes routes?,evolution,ko,methods
+e,cognate,What is a dispersal filter? How does this relate to vicariance?,evolution,ko,methods
+e,cognate,What is jump dispersal? How many different kinds of disperal there are? Is there ecological and also evolutionary dispersal?,evolution,ko,methods
+e,cognate,How did ferns disperse across the landbridge?,evolution,ko,theory
+e,cognate,What are the vicariant models proposed by Lomolino et al 2004?,evolution,ko,methods
+e,cognate,What is a reticulate model?,evolution,ko,methods
+e,cognate,"How does inference use parsimony and what is a ‘cost effective solution’ - parameters, run time, lines of code, assumptions?",evolution,ko,methods
+e,cognate,How does historical biogeography have a far-reaching influence on ecology?,evolution,ko,theory
+e,cognate,What is the evidence for the sixth mass extinction?,evolution,ko,theory
+e,cognate,"What human driver is most important for these extinctions, ie the primary driver of loss? ",evolution,ko,theory
+e,cognate,How substantive is the evidence for homogenization towards generalist species?,evolution,ko,theory
+e,cognate,What is the next step or major themes for biogeography in the next 100 years?,evolution,ko,theory
+e,cognate,"What is the difference between biogeography, macro ecology, and metapop dynamics?",evolution,ko,methods
+e,cognate,Is all phylogeography just biogeography?,evolution,ko,theory
+e,cognate,Why is taxonomy under-appreciated?,evolution,ko,theory
+e,cognate,Who decides what constitutes a type specimen?,evolution,ko,methods
+e,cognate,What is a divergence threshold?,evolution,ko,methods
+e,cognate,How variable are these thresholds at 10x mean intraspecific variation?,evolution,ko,methods
+e,cognate,How do you use nearest neighbour distance?,evolution,ko,methods
+e,cognate,Is barcode matching always perfect?,evolution,ko,methods
+e,cognate,What is meta-barcoding? Is is basically sample screening from a mixed environmental sample?,evolution,ko,methods
+e,cognate,What is a junior synonym?,evolution,ko,methods
+e,cognate,What is a species complex?,evolution,ko,theory
+e,cognate,How are molecular tools used to describe food web taxonomy?,evolution,ko,methods
+e,cognate,What is a batch effect?,evolution,ko,methods
+e,cognate,Can you expand on the what the Linnean shortfall means and its implications for science?,evolution,ko,theory
+e,cognate,"Do different ecosystems have different potential shortfalls? Is this delta between known and present a product of total diversity, productivity, and how might it relate to your other cognate, biogeography?",evolution,ko,theory
+e,cognate,Are there citizen science initiatives that support taxonomic work?,evolution,ko,theory
+e,cognate,Why do you need behavioural data to complement DNA barcodes?,evolution,ko,methods
+e,cognate,Are we racing to identify new species?,evolution,ko,theory
+e,cognate,How does diversity relate to resilience and taxonomy and the shortfall you described?,evolution,ko,methods
+f,cognate,1. How weak do interactions within a pop need to become to tip over to meta?,conservation,tr,methods
+f,cognate,2. Are there temporal meta-pops too or is it mostly spatially driven through patch dynamics?,conservation,tr,methods
+f,cognate,3. Are meta-pop dynamics defined by the collection of patches are a composite or by individual patches?,conservation,tr,methods
+f,cognate,4. What is the difference between movement and dispersal in meta-pop theory?,conservation,tr,theory
+f,cognate,5. Are the genetics difference individual animal defined or patch-level variations?,conservation,tr,theory
+f,cognate,6. How is meta-pop patch quality defined from a colonization perspective without becoming tautological?,conservation,tr,methods
+f,cognate,7. How does meta-pop theory influence estimates of fundamental and realized niche estimates for a species?,conservation,tr,methods
+f,cognate,8. What is the e time variant in models?,conservation,tr,theory
+f,cognate,"9. How is a patch defined as occupied? Is it binary, individual saturation curves, or density-dependent analyses?",conservation,tr,methods
+f,cognate,10. How well validated is the Allee effect? Common idea - rarely tested?,conservation,tr,methods
+f,cognate,"11. For a wildlife animal species, how many demes are they typically in an established meta-pop for a real system?",conservation,tr,theory
+f,cognate,12. How has meta-pop theory helped with SLOSS? I hear this a lot but what advances has it actually made?,conservation,tr,methods
+f,cognate,"1. Is there anything missing from MEP - is internal state = motivation, intention, genetic drives?",conservation,tr,theory
+f,cognate,2. Have there been any studies about MEP and temp across taxa?,conservation,tr,theory
+f,cognate,"3. Does the movement of other animals in herd, flock or matriarch classify as external?",conservation,tr,theory
+f,cognate,4. How does memory influence MEP in the context of climate change?,conservation,tr,theory
+f,cognate,5. How does tracking movement relate to predicting movement within the MEP?,conservation,tr,theory
+f,cognate,6. Does MEP scale to population-level patterns within a species too? How do you decide the extent that you instrument animals within a pop with telemetry for instance to best assess the 4 dimensions of MEP?,conservation,tr,methods
+f,cognate,7. How did you estimate that there are thousands of animal movement papers?,conservation,tr,methods
+f,cognate,8. What other paradigms are there to model movement? How does movement relate to migration or say treelines?,conservation,tr,theory
+f,cognate,"9. Have you seen the circuit theory, permeability or resistivity models for habitat? Interesting and very external model for movement at least of wildlife.",conservation,tr,methods
+f,cognate,10. Are RSFs the endpoint of movement ecology?,conservation,tr,methods
+f,cognate,"11. SSF vs RSF - how does one decide what to use? Seems like for movement, SSFs are more powerful? Vs iSSA?",conservation,tr,methods
+f,cognate,12. When does point data become movement data? When are point data too sparse to constitute movement? Can you apply all those models to sparse point data for individuals?,conservation,tr,theory
+f,cognate,13. How does evolution relate to movement and vice versa?,conservation,tr,theory
