@@ -13,13 +13,13 @@ a,research,things you can control and those things you cannot - spring detection
 b,research,Nesting success over the two-year study was significantly lower on agricultural sites (26.5 % success compared to 50.0 % success on non-agricultural sites) with a similar but non-significant pattern for fledgling survival (21.4 % survival on agricultural compared to 35.3 % on non-agricultural sites).,conservation,hvv,data
 b,research,1. why do you think you had a similar but non-significant pattern?,conservation,hvv,data
 b,research,2. is there any evidence from your work how we could modify ag lands to be more nesting friendly?  It would be great to turn habitat loss into habitat modification.,conservation,hvv,methods
-b,research,"3. In your intro, you state the results to date from lit are conflicted.  Any insights from your work how this can be resolved?  ",conservation,hvv,data
+b,research,"3. In your intro, you state the results to date from lit are conflicted.  Any insights from your work how this can be resolved?",conservation,hvv,data
 b,research,"4. had no relation to habitat variables such as crop type, availability of natural margins, and surrounding grasslands and woodlands (Bradbury et al., 2003) - what is the driver that matters then?",conservation,hvv,data
 b,research,5. intensive agriculture is low quality habitat due to higher nest predation and lower food supply:,conservation,hvv,data
 b,research,so how do you measure predation risk?  arthropods is the measure of food supply.,conservation,hvv,methods
 b,research,6. do sparrows have arthropod feeding preferences or will they eat anything?,conservation,hvv,methods
 b,research,7. Can you have a p-value of 0? p13,conservation,hvv,data
-b,research,8. How do you reconcile mixed positive/n.s. results? some measures were not significant whilst others were?  ,conservation,hvv,data
+b,research,8. How do you reconcile mixed positive/n.s. results? some measures were not significant whilst others were?,conservation,hvv,data
 b,research,9. discuss results on p11,conservation,hvv,data
 b,research,75% of guild? passerines? what about other guilds?,conservation,hvv,data
 b,research,predatory densities? how do they assess?,conservation,hvv,data
@@ -67,7 +67,7 @@ d,research,"5. what is clinal variation? how does variation in climate along the
 d,research,"6. Have positive carryover effects been shown? which are more common, positive or negative?",conservation,lh,theory
 d,research,"7. prey, condition, and movement/migration/behaviour - which is most sensitive/responsive to climate in birds?",conservation,lh,theory
 d,research,"8. Does carry-over go both ways? How long can it persist inter-annually, is it possible it lags > 1 year",conservation,lh,methods
-d,research,9. How are these species related? ie phylogenetic distances? ,conservation,lh,data
+d,research,9. How are these species related? ie phylogenetic distances?,conservation,lh,data
 d,research,"10. the hypotheses are kind of predictions, but I know that semantic vary from lab to lab on how these are written",conservation,lh,theory
 d,research,"11. assumptions in habitat productivity would be very interesting to add - ie climate changes vegetation that changes prey and fruit item availability, that are no lags in the prey-resource system with climate, that the effects of spatial scales even out, that birds compensation in timing can over-ride climate and prey impacts on body condition",conservation,lh,theory
 d,research,12. is it possible that there was migration outside the april-may window? did you check?,conservation,lh,methods
@@ -108,7 +108,7 @@ f,research,"1. Why are bears important ecologically? Do Arctic ecosystems with a
 f,research,2. How do habitat human-wildlife interactions change with climate in the arctic and what strategies can we use to mitigate these impacts?,conservation,tr,theory
 f,research,3. How do you decouple habitat drivers of change from prey items when both are changing?,conservation,tr,methods
 f,research,4. How flexible are habitat choices for dens within a population of females?,conservation,tr,theory
-f,research,5. Why  are females ‘thought’ to be most sensitive? Has it been tested? ,conservation,tr,theory
+f,research,5. Why  are females ‘thought’ to be most sensitive? Has it been tested?,conservation,tr,theory
 f,research,6. What are the procedures in Stirling et al 1989 and why use them versus other approaches?,conservation,tr,methods
 f,research,7. Are there other ways to contrast model performance in addition to AIC scores?,conservation,tr,data
 f,research,"8. Why use one-way anova for turning angle and migration distance? What if these factors interact with elevation or other factors? Did you nest the test within individual bears, ie perhaps some bears are more wanderlust than others?",conservation,tr,data
@@ -124,7 +124,7 @@ f,research,How do you differentiate between movement though a landscape or micro
 f,research,Is it the mean or the variation or both in changes in ice dynamics relevant to pbs?,conservation,tr,data
 f,research,What is an optimal path?,conservation,tr,data
 g,research,1. can you move from genetics to the field or is it best to move from the field to genetics to infer traits?,genetics,nt,theory
-g,research,2. Why this species of bombus? ,genetics,nt,data
+g,research,2. Why this species of bombus?,genetics,nt,data
 g,research,3. Are there any species of bees that are immune to neonicotinoids?,genetics,nt,data
 g,research,4. Survival was heritable after exposure but were there other indirect effects or costs to this trait in terms of of short-term reduced fitness costs? Are there any evidences of tradeoffs?,genetics,nt,theory
 g,research,5. What is an innervation for managers? P1 ch1,genetics,nt,methods
@@ -139,19 +139,19 @@ g,research,13. What is a social immune system? How is it different from an indiv
 g,research,14. Is chronic exposure defined by a threshold of percent mortality? I think some bees survive?,genetics,nt,theory
 g,research,5.  Why did you collect 13 dead bees per colony?,genetics,nt,methods
 g,research,16. How can a bee be observed 49.6 times?,genetics,nt,methods
-g,research,"17. For stats on flights, were flights nested within bees within colonies or just the mean per bees nested within colony? P19. ",genetics,nt,data
+g,research,"17. For stats on flights, were flights nested within bees within colonies or just the mean per bees nested within colony? P19.",genetics,nt,data
 g,research,18. P25 - those are very rectangular plots - what do the slopes of lines look like not so squished?,genetics,nt,data
 g,research,19. It looks like 2 out of 5 colonies suffered but the other three did not in exposed group (p25). What about the data within colonies of the individual bees? Is that the age plot on p31? What does age show on the x-axis?,genetics,nt,data
 g,research,20. What plant species is biggest source? It looks like corn but also soybean? How does proportion landcover relate to NNI concentration per unit area - ie assume soybean planted much more densely?,genetics,nt,data
 g,research,21. P33 density plot - looks like treated bees Fly more often?,genetics,nt,data
-g,research,21. How long does a colony persist?,genetics,nt,
+g,research,21. How long does a colony persist?,genetics,nt,theory
 g,research,22. Is a season long-study representative of longitudinal colony dynamics?,genetics,nt,data
 g,research,23. What are immune genes?,genetics,nt,methods
 g,research,24. What is the default containment degrees of freedom? Did you all test Satterthwaite? Rationale:,genetics,nt,data
 g,research,"So relative to Satterthwaite, containment over-estimates the df for the means themselves - so this inflates capacity to test for differences",genetics,nt,data
 g,research,25. What does df containment have to do with variance components and estimating parameter importance?,genetics,nt,methods
 g,research, See paper here - perhaps need to test alternative model for dis,genetics,nt,data
-g,research,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4458010/ Comparing denominator degrees of freedom approximations for the generalized linear mixed model in analyzing binary outcome in small sample cluster-randomized trials ,genetics,nt,data
+g,research,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4458010/ Comparing denominator degrees of freedom approximations for the generalized linear mixed model in analyzing binary outcome in small sample cluster-randomized trials,genetics,nt,data
 g,research,Containment methods have inflated type I error rates when the cluster number is small (<30) and the inflation becomes more severe with increased variation in cluster sizes.,genetics,nt,data
 a,cognate,Pls put Dispersal ecology in the context of conservation.,conservation,bb,theory
 a,cognate,provide a summary of strengths and limitations of stress responses in animals: concepts and tools. ,conservation,bb,theory

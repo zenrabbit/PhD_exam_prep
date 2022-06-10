@@ -1,6 +1,6 @@
 ---
 title: ""
-output: pdf_document
+output: html_document
 date: '2022-06-10'
 ---
 
@@ -12,11 +12,21 @@ knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE)
 
 Here are sample questions from former exams. In many instances, other examiners would comment they had similar or even identical ones. 
 
-```{r qs, }
+```{r}
 library(tidyverse)
 
 qs <- read_csv("data/qs.csv")
 qs %>% 
   select(-id) %>% 
   knitr::kable()
+
+summary <- qs %>% 
+  group_by(typology, category) %>% 
+  summarise(n = n())
+
+ggplot(summary, aes(typology, n, fill = category)) +
+  geom_col() +
+  scale_fill_brewer(palette = "Set1")
+
+```
 
