@@ -218,3 +218,268 @@ f,cognate,10. Are RSFs the endpoint of movement ecology?,conservation,tr,methods
 f,cognate,"11. SSF vs RSF - how does one decide what to use? Seems like for movement, SSFs are more powerful? Vs iSSA?",conservation,tr,methods
 f,cognate,12. When does point data become movement data? When are point data too sparse to constitute movement? Can you apply all those models to sparse point data for individuals?,conservation,tr,theory
 f,cognate,13. How does evolution relate to movement and vice versa?,conservation,tr,theory
+g,research,"What is micro, meso, and macroclimate? How do these scalings connect? Are different scales relevant to different species? Can you summarize some studies that study microclimatic effects but link to other scales in either plants or animals?",climate,ng,methods
+g,research,How does animal movement relate to habitat use or occupancy? ,climate,ng,theory
+g,research,What are main limitations of cam traps in wildlife biology? In ecology?,climate,ng,methods
+g,research,What is the optimal number of photos to conclude a species in really present and using a habitat or site?,climate,ng,methods
+g,research,What natural fabric is most like a shrub canopy? Do any Native American or indigenous practices use natural materials not just fabrics from Dryland synthesis to make shelters for their domestic animals?,climate,ng,methods
+g,research,How does the variation in fabric performance relate its mean effect? What other sciences test similar ideas and what have they found? Have you checked?,climate,ng,methods
+g,research,What negative effects do shelters have? How would you determine an optional size for shelters for a specific animal species? Has anyone tested the size of shelter or shrub that is most beneficial to small desert animals? Do larger animals use shrubs too? Provide an example.,climate,ng,methods
+g,research,What is a bonus paper and how does it relate to your theory? What size-aridity relationship do you predict?,climate,ng,theory
+g,research,Do more arid sites have less animals in general? Regionally? Can you provide an example?,climate,ng,data
+g,research,How will you address species specificity when you change sites in the responses of animals to shelters?,climate,ng,data
+g,research,What if shelters do not draw in animals? Back-up plan?,climate,ng,methods
+g,research,What is an ecological trap?,climate,ng,theory
+g,research,"Given megadrought, extreme climate events - please define - how will this research support conservation?",climate,ng,theory
+g,research,Is it temps or water that are most limiting to desert animals?,climate,ng,theory
+g,research,What if shelters keep animals there then they starve bc there is no food. Can you envision a management plan that includes other aspects of the environment?,climate,ng,theory
+g,research,You have a specific definition of microclimate in first pronoun. Is this a shared definition with papers? What are other alternatives are there? What scale is typical defined as micro in climate studies? I assume much different from ecological research?,climate,ng,theory
+g,research,How would effective conservation incorporate micro and meso climate into planning?,climate,ng,theory
+g,research,"How does this resource conclude that ephedra is dominant? Sawyer, John O, Todd Keeler-Wolf, and Julie Evens. 2009a. A Manual of California Vegetation. Sacramento, Calif.: California Native Plant Society Press.",climate,ng,theory
+g,research,"Which is a better shelter, Larrea or ephedra? Why not compare to Larrea?",climate,ng,methods
+g,research,What is the difference between a shelter and a refuge ecologically?,climate,ng,theory
+g,research,What are some negative effects of shelters?,climate,ng,theory
+g,research,How do you decouple negative and positive effects from one another in shelters?,climate,ng,methods
+g,research,"In addition to temp and RH, what else changes with shelters? Environmentally?",climate,ng,methods
+g,research,Fig 2 what is nursery cloth? Looks it is best for humidity?,climate,ng,methods
+g,research,How do you measure environmental consistency? Prediction 5 on p13,climate,ng,methods
+g,research,What is the difference between p2 and p5 on p13 and why do you expect that?,climate,ng,data
+g,research,What would finer-scale data have less variation then Mose coarse data (typo there- course),climate,ng,methods
+g,research,Handheld data is not more coarse data. It is still fine-scale point.,climate,ng,data
+g,research,Is there a way to reply arrays? How do you address nestedness in your data?,climate,ng,methods
+g,research,P14 you state you are deploying temp/light but then mention RH? Do those sensors measure humidity?,climate,ng,methods
+g,research,What is the advantage of shielded sensors and what do they test relative to open sensors? Have you compared both?,climate,ng,methods
+g,research,Have you reviewed the work of Germano and others with model lizards with sensors on them? Do they work and or are they relevant?,climate,ng,methods
+g,research,"Are there any open, published fine-scale micro data out there? How fine-scale can you downscale remote sensing data for comparison?",climate,ng,data
+g,research,"How many local weather stations are there? Can you compare three levels? Sensor, station, and remote?",climate,ng,methods
+g,research,What is a Levene test?,climate,ng,data
+g,research,Fig 3.1 looks like no differences at all. Is that correct?,climate,ng,data
+g,research,What about Tecopa? Is that the Mojave site?,climate,ng,methods
+g,research,Can you align scales so we can compare the two sites to one another?,climate,ng,data
+g,research,What about the relative effect of shrub versus open - ie instead of showing means show differences? Does that show a different pattern?,climate,ng,methods
+g,research,I love the bonus. How do shrub sizes compare to your shelter sizes? Good idea,climate,ng,methods
+g,cognate,"How does environmental heterogeneity map on spatial scales of other key drivers such as soils, elevation, and aspect?",environmental science,ng,theory
+g,cognate,"Is EH the most common umbrella term for all the other ideas? How does load cover differ from vegetation EH? Which is more frequently studied in ecology, spatial or temporal EH? How often do we study both?",environmental science,ng,methods
+g,cognate,Fig 1- how do biotic and abiotic EH drivers interact in natural systems?,environmental science,ng,theory
+g,cognate,Which ecosystem has the highest level of spatial EH? Temporal?,environmental science,ng,theory
+g,cognate,Does EH typically go up or down with disturbance and anthropogenic change? Explain with a few examples.,environmental science,ng,methods
+g,cognate,What are Integrated models of disturbance and ecological succession?,environmental science,ng,theory
+g,cognate,What is the future of EH studies? How commonly is EH incorporated into contemporary research? What is best method you can recommend for it to be included to a field community ecologist?,environmental science,ng,theory
+g,cognate,What is a principle in science?,environmental science,ng,theory
+g,cognate,How do technological designs interact with the study of ecological dynamics and perhaps biodiversity?,environmental science,ng,theory
+g,cognate,Is resilience ever considered in EE?,environmental science,ng,theory
+g,cognate,What is SOC? How does engineering relate to SOC?,environmental science,ng,theory
+g,cognate,What is practical ecological engineering? Did this term ever take?,environmental science,ng,theory
+g,cognate,How does ecotech relate to greenwashing?,environmental science,ng,theory
+g,cognate,Can you explain what Restoration ecology can be applied along a continuum means?,environmental science,ng,methods
+g,cognate,Do we not use design in RE too? Can you provide an example of strong overlap between RE and EE?,environmental science,ng,theory
+g,cognate,How do you measure extent of self-organization in natural or augmented systems?,environmental science,ng,theory
+g,cognate,How do hierarchies relate to EE?,environmental science,ng,theory
+g,cognate,Is EE primarily adaptation or exaptation?,environmental science,ng,theory
+g,cognate,"What is the difference between function and effect, semantically in table 2?",environmental science,ng,theory
+g,cognate,"Does EE use network theory, explicitly in their models?",environmental science,ng,data
+g,cognate,How does EE relate to circular economies?,environmental science,ng,theory
+h,research,How does density relate to conservation?,ecology,mz,theory
+h,research,How does density relate to mass effects? Or bulk density effects?,ecology,mz,theory
+h,research,Does saturation matter for desert systems?,ecology,mz,theory
+h,research,Do you think the seed bank density influences density in any respects?,ecology,mz,theory
+h,research,Does ephedra seed bank?,ecology,mz,theory
+h,research,Does density relate to species diversity in desert ecosystems?,ecology,mz,data
+h,research,What is your back-up plan for shrub removal if you can not get permission?,ecology,mz,data
+h,research,How does the density of brome or other significant annual or perennial bunch grasses relate to the density effects of shrubs on animals?,ecology,mz,theory
+h,research,Can there be negative shrub density effects on animals?,ecology,mz,theory
+h,research,Is shrub density increasing or decreasing through time in California?,ecology,mz,theory
+h,research,Is there any evidence on drought tolerance for ephedra or other native shrubs in California?,ecology,mz,theory
+h,research,Are there non-native shrubs in the deserts of California?,ecology,mz,methods
+h,research,How frequently have others tested the impact of shrub density animals? ,ecology,mz,theory
+h,research,What negative effects have been reported of shrubs on animals?,ecology,mz,theory
+h,research,You state that density has been well studied in plant competition. Has it been well studied in facilitation? To what extent specifically?,ecology,mz,theory
+h,research,How does shrub encroachment relate to your work?,ecology,mz,theory
+h,research,Does ephedra compete with other native shrubs? Has anyone ever tested?,ecology,mz,data
+h,research,How does local animal abundance or diversity relate to regional patterns for the most common species in the region?,ecology,mz,theory
+h,research,What is foundation species theory?,ecology,mz,theory
+h,research,"Do you test SGH in this thesis? If so, how many points do you need to test SGH? What is the biggest limitation of this hypothesis? To what extent has SGH been tested in animals?",ecology,mz,methods
+h,research,How do you test the scale that matters for animals? Is 20m the right scale for some/all animals? Any evidence that larger mammals use shrubs too?,ecology,mz,methods
+h,research,"CH4, what is high shrub density mean? What is the highest and lowest densities for the region?",ecology,mz,methods
+h,research,"In Ch4, you state purpose is various ecosystems. Do we have more than one?",ecology,mz,methods
+h,research,What is increasing climate data in prediction 2 mean?,ecology,mz,methods
+h,research,What is stress mean for ch4 and how will test whether the measure you have are actually stressors?,ecology,mz,methods
+h,research,What is mesoclimate?,ecology,mz,theory
+h,research,What is the difference between a GLM and GLMM?,ecology,mz,data
+h,research,Does anyone have seedlings of ephedra in the region or do any nurseries grow them? Can we also test shrub recruitment?,ecology,mz,methods
+h,cognate,What systems are density independent?,ecology,mz,methods
+h,cognate,How do you test for density dependence?,ecology,mz,methods
+h,cognate,What is the difference between density and abundance?,ecology,mz,methods
+h,cognate,How does density dependence influence community assembly?,ecology,mz,theory
+h,cognate,What is observer or detectability bias? Do we use in density studies in ecology?,ecology,mz,methods
+h,cognate,What ie a per capita rate for density?,ecology,mz,data
+h,cognate,Is density used differently in plant and animal ecology?,ecology,mz,methods
+h,cognate,"In fig 1, why are the lines flat in panel b?",ecology,mz,data
+h,cognate,Do we ever test for density oscillations in deserts?,ecology,mz,data
+h,cognate,Do plant pops show density oscillations too?,ecology,mz,data
+h,cognate,"Can you explain fig 5, the Ricker model?",ecology,mz,data
+h,cognate,How do we use density in restoration ecology? In invasion biology? ,ecology,mz,theory
+h,cognate,How do estimate net outcomes?,ecology,mz,methods
+h,cognate,How do you partition out positive and negative interactions? Experimentally and statistically?,ecology,mz,data
+h,cognate,What is the most frequently studied plant-animal interaction in ecology? In evolution?,ecology,mz,theory
+h,cognate,What is a trophic cascade? What is a facilitation cascade?,ecology,mz,theory
+h,cognate,What is a focal herbivore?,ecology,mz,theory
+h,cognate,Table 2 what is the difference between net impact and net outcome?,ecology,mz,theory
+h,cognate,What is apparent facilitation? Is it the same as indirect?,ecology,mz,methods
+h,cognate,What is the most exciting next step for plant-animal interaction models and experiments?,ecology,mz,theory
+i,research,What consequences are there of community assembly very broadly? Is a consequence an influence on processes at other levels?,ecology,jb,theory
+i,research,How often are ant-plant interactions facultative specifically? Anyone done a review on this?,ecology,jb,theory
+i,research,What is niche theory?,ecology,jb,theory
+i,research,Is resource partitioning ever temporal for ant community assembly processes? Are spatial partitioning more relevant or ecologically intense?,ecology,jb,theory
+i,research,"How do taxonomic, phlyogenetic, and functional diversity patterns interact within a community? Are they independent and or often multicollinear? How do you contrast them?",ecology,jb,theory
+i,research,What is the null model for community assembly for ants? How often does stochasticity seed the diversity of ants at a site or region relative to other more deterministic processes?,ecology,jb,theory
+i,research,Is it possible based on previous work to predict whether biotic or abiotic are more important to taxonomic vs functional diversity? Why do you not include phylogenetic diversity as well?,ecology,jb,theory
+i,research,What is dark diversity and how might it impact alpha vs beta diversity estimates?,ecology,jb,theory
+i,research,Is there only one method to calculate community weighted means?,ecology,jb,methods
+i,research,What is a four corner analysis?,ecology,jb,methods
+i,research,What is a GLM-based approach to four-corner models? Why can it not include infraspecific trait values?,ecology,jb,data
+i,research,What level of observer bias is there in GABI?,ecology,jb,methods
+i,research,Will the ENMs be stacked?,ecology,jb,data
+i,research,Do ant-species specific to environmental drivers ultimately determine strength that environmental context matters?,ecology,jb,data
+i,research,Are any of your a priori predictions negative or nulls?,ecology,jb,data
+i,research,Is there ever evidence for more ants AND more herbivores on a plant with more EFN activity? Do we expect them to always be correlated?,ecology,jb,theory
+i,research,How long do these cacti live? What is a healthy plant? Define. ,ecology,jb,methods
+i,research,How does composition of seedbank relate to is bulk density?,ecology,jb,theory
+i,research,What is the different persistent and transient seed banks and do they matter this experiment?,ecology,jb,theory
+i,research,Can brome alter seed availability by simply making it more difficult to find the same of native seeds that would have been there without it?,ecology,jb,theory
+i,cognate,How did this cognate influence your understanding of community assembly processes?,ecology,jb,theory
+i,cognate,Why are there so many diversity indices?,ecology,jb,theory
+i,cognate,What is the single best measure for plants? For ants? Does it depend?,ecology,jb,methods
+i,cognate,What does diversity fail to capture? Does evenness or turnover or any other measure capture resilience through time or spaces in richness or diversity?,ecology,jb,methods
+i,cognate,Does the complexity of an equation relate to is parsimony?,ecology,jb,methods
+i,cognate,What is a unified measure? Are there others in addition to Hill Numbers?,ecology,jb,methods
+i,cognate,Does random draws assumption underpin most estimates?,ecology,jb,methods
+i,cognate,"What is nestedness? Can you ever infer nestedness from measures, repeated at one scale only? ",ecology,jb,data
+i,cognate,How do diversity and composition relate to SOC - self-organized criticality or to larger patters in diversity at global scales? ,ecology,jb,data
+i,cognate,What is SAD and why is it one of the true laws?,ecology,jb,data
+i,cognate,Figure 1 is powerful. Please explain.,ecology,jb,data
+i,cognate,How is uncertainty in big diversity data modeled? ,ecology,jb,data
+i,cognate,Is there ever only evolution or is it always arguably coevolution?,evolution,jb,theory
+i,cognate,What is macroevolution?,evolution,jb,theory
+i,cognate,Is adaptation more likely to occur under coevolutionary processes or evolutionary ones?,evolution,jb,theory
+i,cognate,Are there examples of non-red queen in nature?,evolution,jb,theory
+i,cognate,Table 2 is super - how would you classify all these hypotheses/theories into a few high-level concepts?,evolution,jb,theory
+i,cognate,How do environmental gradients interact with coevolutionary processes?,evolution,jb,theory
+i,cognate,Do transitions in interactions in sign relate to changes in magnitude or frequencies of interactions as well?,evolution,jb,data
+i,cognate,What is the extended phenotype theory?,evolution,jb,theory
+i,cognate,What is a geographic mosaic?,evolution,jb,theory
+i,cognate,Do we know where coevolutionary hotspots are for some taxa/species?,evolution,jb,theory
+j,research,"What is the most appropriate experimental design to test for gradient effects on net plant interactions and how would the results be best analyzed?  To answer this, please review the options and identify the strengths and limitations of each major approach followed by a clear and critical decision of the 'best' so to speak at this point in time in community ecology.",evolution,ds,methods
+j,research,"Explain which of the following is more important from an evolution of traits perspective: ecophysiological adaptions to an arid microclimate, density dependent effects on trait sets in arid contexts, or resource pulsing in arid systems on plants.  To answer this, please demarcate how adaptation relates to ecophysiology, how plant-plant interactions relate to ecophysiology, and how overarching environmental selection processes shape trait suites in general.",evolution,ds,theory
+j,research,"Community assembly theory is a relatively flawed paradigm.  Explain how net interactions have forces this theory to evolve and how in many respects net interaction theory eclipses assembly theory.  To answer this, please include a brief history of each theory set, how they have influenced one another, and then clearly agree or disagree with the above statement.",evolution,ds,theory
+j,cognate,1. How do spatial changes interact with temporal dynamics?,evolution,ds,methods
+j,cognate,2. Inter-annual variation is more important?,evolution,ds,methods
+j,cognate,3. How useful is gradient length in general?  How often does it actually map onto spatial differences?,evolution,ds,methods
+j,cognate,4. Confounding variables how do identify them and then how do you statistically control for them?,evolution,ds,methods
+j,cognate,5. What is stress?  How to perfectly measure.,evolution,ds,theory
+j,cognate,6. What about population level studies?  Or regional?,evolution,ds,theory
+j,cognate,How important is rain relative to other precipitation?,evolution,ds,methods
+j,cognate,"What is the difference between precip, soil moisture, and available soil moisture?",evolution,ds,methods
+j,cognate,explain Pulsing and indirect interactions and climate change,evolution,ds,theory
+j,research,1. How critical is California to your research?,evolution,ds,methods
+j,research,2. What does the literature indicated in how one is to select regions to contrast?  Provide citations.  Is it climate matching or climate contrasting?  Or some other factor?,evolution,ds,theory
+j,research,3. What is the difference between species association and spatial pattern?  What are you doing in chapter 2 really?,evolution,ds,methods
+j,research,4. How will you use your quadrats to test spatial pattern?  Have you considered using nested quadrats or transects?,evolution,ds,data
+j,research,"5. Is chapter 4 density series with or without replacement?  Are the density series replicated under shrubs and in the open?  are there 3 or 2 microsites?  open, shrub, artificial shrub?  Why not add the artificial shrub to Ch3 so that the designs are parallel. Heck, if the shrubs are big enough, why not do both addition and removal next to each other?",evolution,ds,methods
+j,research,6. Will you be using phytometers at all?,evolution,ds,methods
+j,research,7. Why pitfalls and not sweeps in CH5?  Why not combine the sampling with plant manipulations in some form?,evolution,ds,methods
+j,research,8.  Is there a more direct way to study biogeography in your thesis?  Are you sure that you are really hitting your main objectives here?,evolution,ds,methods
+j,research,9.  Can you imagine a way to more effective to test scale?  Why not do the manipulations are different and grander scales?,evolution,ds,methods
+j,cognate,1. What other disciplines use gradient analyses?,evolution,ds,methods
+j,cognate,"2. In the introduction part of this question, you cite relatively current lit.  However, are there are more recent publications on this topic?",evolution,ds,theory
+j,cognate,3.  Provide an example of an empirical study that most effectively used gradients to refute the concepts you define.,evolution,ds,theory
+j,cognate,4.  When are gradients not useful in community ecology?,evolution,ds,methods
+j,cognate,5.  How do gradients relate to biogeography?,evolution,ds,theory
+j,cognate,6.  How important is climate on most gradient studies?,evolution,ds,theory
+j,cognate,7.  Why should a gradient encompass 'as much variability as possible'?,evolution,ds,data
+j,cognate,"8. Provide an example of a 'composite measure of a gradient', ie a study that did this and how they did it.",evolution,ds,theory
+j,cognate,9. Does gradient analyses in community ecology always relate to SGH?,evolution,ds,theory
+j,cognate,"10. Does plant spatial pattern necessarily reflect interactions as you imply?  If so, why?  Or why not?",evolution,ds,theory
+j,cognate,11. Provide an example of a biotic gradient.,evolution,ds,theory
+j,cognate,"12. I really like the table, however what about population or regional level studies?",evolution,ds,theory
+j,cognate,13. How often do we study genetic gradients?,evolution,ds,theory
+j,cognate,14. Are there experiments that use target species sampling which is manipulative?,evolution,ds,theory
+j,cognate,15.  What is a pair-wise removal?,evolution,ds,methods
+j,cognate,16. Make a column and list examples for each row in Table 1.,evolution,ds,theory
+j,cognate,17. Conclusion very weak.  Provide the perfect design to test whether competition is important in determining plant species diversity.  How would this differ from a herbivore pressure gradient?,evolution,ds,theory
+j,cognate,18.  How are gradients used in invasion biology and what design do they usually adopt?,evolution,ds,theory
+j,cognate,1. How does eco-phys differ from the study of evolutionary ecology and adaptation?,evolution,ds,theory
+j,cognate,2. line 2 - variation among deserts is probably greater than other biome... variation in what?,evolution,ds,data
+j,cognate,"3. Are you sure that water availability if really the main determinant of 'biological organisms'?  what do you mean by this?  their relative extent, presence, or performance?  I doubt this is true in all respects.",evolution,ds,methods
+j,cognate,4. Do pulses have to be rare to be pulses?  I disagree with your definition.  Provide alternative definitions that you read in the lit.,evolution,ds,theory
+j,cognate,5. How do pulses 'scale-up' in the trophic chain?,evolution,ds,methods
+j,cognate,6. Provide a few current pulsing experiments.  The ones you cite are dated.,evolution,ds,methods
+j,cognate,7. Can a deep-rooted plant capitalize on pulses?,evolution,ds,theory
+j,cognate,8. Does water pulsing necessarily promote phenotypic plasticity in plants?,evolution,ds,theory
+j,cognate,9. Describe the Orrock and Christopher 2010 paper in detail please. What is a survival analysis?,evolution,ds,theory
+j,cognate,10. Do only shrubs have dimorphic root systems?  Has there been any phylogenetic analyses of root morphology patterns?,evolution,ds,theory
+j,cognate,"11. Specifically, what proportion of plants are grasses in deserts?  Do they also comprise the most number of species (or do you mean abundance or cover)?  Please explain.",evolution,ds,theory
+j,cognate,12. Do plants compete between pulses?,evolution,ds,theory
+j,cognate,Are neutral models individualistic?,evolution,ds,data
+j,cognate,Is community-assembly theory the same as community theory?,evolution,ds,theory
+j,cognate, I did not see a real list of limitations.  Contrast to biogeography or regional ecology please.,evolution,ds,theory
+k,research,explain reaction norms crossing vs parallel a bit more clearly,evolution,ll,methods
+k,research,is allocation difference adaptation or plasticity,evolution,ll,methods
+k,research,there are 17 plasticity indices?  wow.  did they contrast them mathematically or quantitatively?,evolution,ll,theory
+k,research,try partial correlation analyses controlling for population-level differences instead of mixing them.,evolution,ll,theory
+k,research,How do these findings match up with the ecography paper?,evolution,ll,theory
+k,research,do the plasticity measures etc explain extent of invasion?,evolution,ll,methods
+k,research,ensure that we link these findings to the Ecography paper.,evolution,ll,theory
+l,research,Is there a degree of certainty associated with geolocators?,evolution,mmp,theory
+l,research,How important is forest type for the geolocators?,evolution,mmp,theory
+l,research,Can you explore the Cons Bio paper a bit more?,evolution,mmp,theory
+l,research,Is Cort always high in response to low food? Are there calibration curves associated with caloric intake?,evolution,mmp,methods
+l,research,Is SMI the same as BMI?  ,evolution,mmp,methods
+l,research,"If you depart late, you arrive late? Why? Is there compression of differences due to migration rates differences?  Is there any way to integrate these different estimates?",evolution,mmp,methods
+l,research,Is SMI the same as lean?  You mean mass or fat?,evolution,mmp,methods
+l,research,How do you reconcile some measures supporting predictions and not others?,evolution,mmp,data
+l,research,Is there an interaction between weather and individual strategy?,evolution,mmp,theory
+l,research,"If you take 3 times longer, the importance of environment increases",evolution,mmp,theory
+l,research,How extensive does travel/movement/dispersal have to be to warrant term migration?,evolution,mmp,methods
+l,research,The right time implies an optimal arrival time?  Is it a static or shifting/dynamic optimum?,evolution,mmp,methods
+l,research,What proportion of the year is spent migrating?,evolution,mmp,data
+l,research,What proportion of migration is stopover?,evolution,mmp,data
+l,research,Are wood thrushes representative passerine species?,evolution,mmp,theory
+l,research,Why are prolonged stopovers predicted to reduce condition?,evolution,mmp,data
+l,research,"Why would physiology relate to behaviour in general, particularly in securing mates etc? Or is it a change in cues?",evolution,mmp,theory
+l,research,Why linear regression and not multiple linear regression or SEMS?,evolution,mmp,data
+l,research,What is the t-test between sexes testing in arrival condition etc. the means or the slopes of regressions?,evolution,mmp,data
+l,research,Figure 1. Predictions look great.  Can you scale to make more general to passerines more broadly?,evolution,mmp,data
+l,research,"Are figures 2-5 regressions?  Or are they mean values for each level?  If means, need SE. If single points, need to clarify.",evolution,mmp,data
+l,research,"Figure 6, you list the r2 etc in the figure legend whilst in Fig 8 you do not but it is a regressions too I think?",evolution,mmp,data
+l,research,Figure 9- very nice. Can you link to the prediction figure somehow?,evolution,mmp,methods
+j,research,how many species do you need to scale into complexity?,ecology,sh,methods
+j,research,facilitation? appropriate use of terms?,ecology,sh,theory
+j,research,top-down control versus bottom up?,ecology,sh,theory
+j,research,herbivory as a driving force of change - direct vs indirect,ecology,sh,theory
+j,research,vert vs invert magnitude of effects?,ecology,sh,theory
+j,research,do species ever do one thing?,ecology,sh,theory
+j,research,double mutualism - asexual herbivory versus asexual herbivory double herbivores?,ecology,sh,theory
+j,research,continuum view of competition and facilitation - and herbivory too?,ecology,sh,theory
+j,research,temporal versus spatial effects of herbivory,ecology,sh,theory
+j,research,direct versus indirect interactions shift from early to late seasonality?,ecology,sh,theory
+j,research,disturbance from digging and direct consumption - does it matter?,ecology,sh,methods
+j,research,is it possible protege species must balance competition with conspecifics versus herbivory?,ecology,sh,theory
+j,research,resources versus interactions?,ecology,sh,theory
+j,research,limitation versus regulation?,ecology,sh,theory
+j,research,is there a way to reduce complexity?,ecology,sh,methods
+j,research,how do you map interactions in networks?,ecology,sh,methods
+j,research,how often has florivory versus folivory been contrasted in the same experiment?  fig4 of ch1…. you mention some did both? <10 studies,ecology,sh,theory
+j,research,do the exclosures work? grasshopper eggs under the plants?,ecology,sh,theory
+j,research,state a null hypothesis for a proposal at least,ecology,sh,theory
+j,research,was there a relationship between density and richness?,ecology,sh,theory
+j,research,what systems experience the highest consumer pressure?,ecology,sh,theory
+j,research,macroecological versus micro?,ecology,sh,theory
+j,research,can you make a table to compare the different indices?,climate,sh,data
+j,research,how do you predict drought?,climate,sh,theory
+j,research,what is the best measure of drought?,climate,sh,methods
+j,research,what is a topological network,evolution,sh,theory
+j,research,What is ENA?,evolution,sh,data
+j,research,can you give me an example of a social network and what is showed in ecology?,evolution,sh,data
+j,research,implications and future directions?,evolution,sh,theory
+j,research,what do the data look like?,evolution,sh,theory

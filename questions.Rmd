@@ -15,7 +15,10 @@ Here are sample questions from former exams. In many instances, other examiners 
 ```{r}
 library(tidyverse)
 
-qs <- read_csv("data/qs.csv")
+qs <- read_csv("data/qs.csv") %>% 
+  mutate(rep = row_number()) %>% 
+  select(rep, everything())
+
 qs %>% 
   select(-id) %>% 
   knitr::kable()
