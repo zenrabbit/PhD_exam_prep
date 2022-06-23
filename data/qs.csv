@@ -483,3 +483,49 @@ j,research,What is ENA?,evolution,sh,data
 j,research,can you give me an example of a social network and what is showed in ecology?,evolution,sh,data
 j,research,implications and future directions?,evolution,sh,theory
 j,research,what do the data look like?,evolution,sh,theory
+i,research,Are there alternative models to community assembly? Filters? Is assembly hierarchical?,ecology,jb,theory
+i,research,What does ESI do?,ecology,jb,theory
+i,research,How extensive and consistent are the data on TRY?,ecology,jb,data
+i,research,What is the purpose of refraction methods?,ecology,jb,theory
+i,research,What is a biotype?,ecology,jb,theory
+i,research,How do we use pattern to infer process?,ecology,jb,theory
+i,research,"Why not do PD, TD, and FD contrasts?",ecology,jb,data
+i,research,Could you sample ants on thermal gradients?,ecology,jb,methods
+i,research,Ants and other organisms do not experience the mean but instead the variation. Is there a better way to test temp effects for instance.,ecology,jb,methods
+i,research,What other back up plans do you have? Meta and brome?,ecology,jb,methods
+h,research,Is there a mode for shrub density in the field at certain scales? ,ecology,mz,methods
+h,research,Do you envision a consistent spatial structure in shrub density patterns in the field?,ecology,mz,methods
+h,research,What is the overarching purpose of thesis?,ecology,mz,theory
+h,research,Does temp predict native abundances and or size of individuals?,ecology,mz,data
+h,research,How did you address blocks and table effects in temp within your temp germination trials?,ecology,mz,data
+h,research,Can you add block as a random factor in the statistical models for temp effects?,ecology,mz,data
+h,research,How do you define population of species? Is it spatial or is it about breeding?,ecology,mz,theory
+h,research,What is the difference between a theoretical definition and a functional one for population in the context of ecological research?,ecology,mz,theory
+h,research,Can you link body condition in lizards with shrub density?,ecology,mz,methods
+h,research,What is the difference between keystone and foundation species?,ecology,mz,theory
+h,research,What is an ecosystem engineer?,ecology,mz,theory
+h,research,How would you test if ephedra is an engineer?,ecology,mz,methods
+h,research,What other shrub species are common?,ecology,mz,methods
+h,research,What is the next generation of density dependence in ecology?,ecology,mz,theory
+h,research,Is brome everywhere that ephedra?,ecology,mz,methods
+h,cognate,Do desert animals sequester plant toxins?,ecology,mz,methods
+h,cognate,Do plant defenses in deserts use toxins to deter consumers in these systems?,ecology,mz,theory
+h,cognate,Is there evidence for overcompensation in plants in deserts?,ecology,mz,theory
+h,cognate,What is exploitive competition in deserts for resources in the consumers and is it related to size?,ecology,mz,theory
+h,cognate,What is the green world hypothesis so is there competition in consumers for plant materials?,ecology,mz,theory
+h,cognate,Do we need new models for density dependence in pop ecology?,ecology,mz,data
+h,cognate,Can you think of the one paper that best represents the future of density dependence?,ecology,mz,theory
+h,cognate,What research from your cognates best informs your thesis research?,ecology,mz,methods
+h,cognate,Can you log the abundance data for animals in your statistics?,ecology,mz,data
+g,research,Is the design general or specific to your plans?,environmental science,ng,methods
+g,research,How would one determine an optimal or representative patch size for plants or for animals?,environmental science,ng,methods
+g,research,How important is scale and climate and how would you test this? Can you look up HR sizes and foraging patterns for different species?,environmental science,ng,methods
+g,research,How could you contrast local climate drivers versus regional climate drivers?,environmental science,ng,methods
+g,research,Can you do analyses on the materials directly yourself? Like shine light on it? Permeability? Develop a protocol.,environmental science,ng,methods
+g,research,Animal incidence rate or capture rate?,environmental science,ng,methods
+g,research,Can you document how the animals are using the shelters?,environmental science,ng,methods
+g,cognate,Do genetics ever inform ecological engineering with specific species?,environmental science,ng,methods
+g,cognate,What are novel ecosystems?,environmental science,ng,theory
+g,cognate,Animal incidence rate or capture rate?,environmental science,ng,methods
+g,cognate,Do ecological engineering projects ever simply use biotic agents like your algae example? Is there one for climate?,environmental science,ng,methods
+g,cognate,What EE solutions are being explore for climate remediation?,environmental science,ng,methods
